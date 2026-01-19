@@ -167,5 +167,15 @@
       "You are not ignoring runaway.txt. Find where the file is and fix that."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768803426.312992,
+    "completed_at": 1768803429.756555,
+    "comments": [
+      "You should not be ignoring this/is/very/nested/find_me.txt!",
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
   }
 ]
