@@ -222,5 +222,14 @@
       "The remote 'origin' is missing!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1768914527.008272,
+    "completed_at": 1768914533.572357,
+    "comments": [
+      "The origin remote does not point to your fork!"
+    ],
+    "status": "Incomplete"
   }
 ]
