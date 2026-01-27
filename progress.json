@@ -512,14 +512,5 @@
       "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "mix-messy-graph",
-    "started_at": 1769519977.090168,
-    "completed_at": 1769519985.297102,
-    "comments": [
-      "Expected commit message of 'None', got 'add the delete feature' instead."
-    ],
-    "status": "Incomplete"
   }
 ]
